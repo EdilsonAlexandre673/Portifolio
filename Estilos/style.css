@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    height: 100vh;
+}
+
+#header-conteiner{
+    border: 2px solid black;
+    margin: 2px;
+}
+
+#perfil{
+    border: 2px solid black;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border: 2px solid darkturquoise;
+    margin: 2px;
+}
+
+.foto-nome{
+     border: 2px solid red;
+    margin: 2px;
+}
+
+#bio-redes{
+     border: 2px solid lawngreen;
+    margin: 2px;
+}
+
+#tecnologia-conteiner{
+    border: 2px solid fuchsia;
+    margin: 2px;
+     display: flex;
+     
+}
+
+img {
+    
+}
+
+.java > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.java{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+
+.springboot > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.springboot{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+
+.mysql > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.mysql{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+.postgresql > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.postgresql{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+
+.github > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.github{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+.html > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.html{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+
+.css > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.css{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
+.javascript > img {
+  width: 100px;  /* Largura da sua div */
+  height: 100px; /* Altura da sua div */
+  overflow: hidden;
+    
+}
+.javascript{
+   border: 2px solid blue;
+
+   width: 60%;
+   height: 60%;
+   object-fit: cover;
+   object-position: center
+}
+
